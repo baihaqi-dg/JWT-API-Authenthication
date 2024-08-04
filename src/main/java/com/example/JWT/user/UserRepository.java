@@ -1,4 +1,4 @@
-package com.example.JWT.API.Authenthication.user;
+package com.example.JWT.user;
 
 import java.util.Optional;
 
